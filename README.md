@@ -524,3 +524,5 @@ to build the "Simple Liker" from scratch!
 [jsonstringify]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify
 [jsonobject]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
 [response]: https://developer.mozilla.org/en-US/docs/Web/API/Response
+
+Copyrights @ Joshmurih
